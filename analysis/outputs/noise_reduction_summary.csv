@@ -1,0 +1,5 @@
+stage,rows,rows_removed,pct_of_raw
+Raw M-Lab records (BQ export),811134,0,0.0
+After cleaning (study ZIPs),811134,0,0.0
+IQR outlier removal (used),754418,56716,6.992186247894923
+5th/95th percentile (NOT used),730020,81114,10.000073970515352
